@@ -1,3 +1,6 @@
+![BOT Screenshot](https://github.com/ashtrobe/microsoft-rewards-farmer-bot/blob/main/bot-ss.png)
+
+
 # Microsoft Rewards Farmer Bot 🥇
 **Available only for Windows Platform.**
 
@@ -10,3 +13,4 @@
 - 🔧 **Regular Bug Fixes**
 
 This bot work with a monthly subscription. If you are interested, reach out to my Telegram account @boodiebada (https://t.me/boodiebada) 
+Bot Demo - https://t.me/ashestricks/239
