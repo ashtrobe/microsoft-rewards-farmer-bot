@@ -1,8 +1,7 @@
-![BOT Screenshot](https://github.com/ashtrobe/microsoft-rewards-farmer-bot/blob/main/bot-ss.png)
-
-
 # Microsoft Rewards Farmer Bot 🥇
 **Available only for Windows Platform.**
+
+![BOT Screenshot](https://github.com/ashtrobe/microsoft-rewards-farmer-bot/blob/main/bot-ss.png)
 
 # **Features:**
 
