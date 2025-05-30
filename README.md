@@ -11,6 +11,6 @@
 - 📲 **Farming Updates Via Telegram Chat Bot or Discord Server**
 - 🔧 **Regular Bug Fixes**
 
-This bot work with a monthly subscription. If you are interested, reach out to my Telegram account @boodiebada (https://t.me/boodiebada) 
+This bot works with a monthly subscription. If you are interested, send a DM on Telegram @boodiebada (https://t.me/boodiebada) 
 
 Bot Demo - https://t.me/ashestricks/239
